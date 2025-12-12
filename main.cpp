@@ -9,6 +9,7 @@ void main() {
 	cout << "hi";
 	cout << "heya";
 	cout << "the summation of a,b =" << sum(50, 100) << endl;
+	cout << "hey from prod";
 
 }
 
